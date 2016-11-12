@@ -5,3 +5,5 @@
 # Goodbye
 
 ## Goodbye Today
+
+# Konnichiwa
